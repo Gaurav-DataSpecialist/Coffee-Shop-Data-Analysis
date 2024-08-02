@@ -9,7 +9,7 @@ This project analyzes a coffee shop's sales data using Microsoft Excel, Power Pi
 - **Average Bill per Person**
 - **Average Order per Person**
 
-### Visualizations
+## Visualizations
 - Sales Trends by Hour
 - Category Sales Distribution
 - Order Size Distribution
