@@ -17,6 +17,13 @@ This project analyzes a coffee shop's sales data using Microsoft Excel, Power Pi
 - Top 5 Products by Sales
 - Weekday Sales Trends
 
+## Data Cleaning and Management
+Significant data cleaning and management were performed to ensure accurate analysis, including:
+- Removing duplicates
+- Handling missing values
+- Normalizing data formats
+- Filtering irrelevant data
+
 ## Tools Used
 - Microsoft Excel
 - Power Pivot
